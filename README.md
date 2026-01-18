@@ -60,7 +60,7 @@ python bnd_test.py
 
 ```
 Crow_detection/
-├── detect_people.py          # Основной скрипт детекции
+├── bnd_test.py          # Основной скрипт детекции
 ├── requirements.txt          # Список зависимостей
 ├── README.md                # Документация
 ├── crowd.mp4                # Входное видео (добавить самостоятельно)
